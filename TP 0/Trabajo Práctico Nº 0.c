@@ -3,10 +3,10 @@ Córdoba, María Noelia
 20150404*/
 
 #include <stdio.h>
-#include <stdlib.h>
+
 #include "stdafx.h"
 
-int main(){
+int main(void){
 	printf("Hello, World!!!!");
 }
 
